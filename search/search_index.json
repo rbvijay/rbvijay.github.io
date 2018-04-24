@@ -2,23 +2,23 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "Progress updates - 24 April 2018\n\n\nI have worked on completing tasks related to final paper submission CMLA\n\n\n\n\nLatest link of the overleaf paper can be found \nhere\n\n\n\n\nNew changes for CMLA final paper:\n\n\nAdding new changes to the paper, some are based on review feedback.\n\n\n\n\nImage processing - server side 01\n - Dewraping, binarizing student uploaded images. - complete \nSamples Here\n\n\nImage processing - server side 02\n - Rule line removal from student uploaded document images. - pending\n\n\nDatamining - server side 01\n - Enhancements to Datamining on courses. \n\n\nImage processing - android 01\n - Document quality estimation: Accepting or rejecting the camera-upload documents based on image quality. - pending\n\n\nPaper changes - section 1, section 2\n - simple text refinements, grammar and explanation. - complete\n\n\nPaper changes - section 3\n - Detailed explanation on experiments and experience section. Adding a table to explain experiment clearly. - pending\n\n\n\n\nTasks next week\n\n\n\n\nRule line removal from student uploaded document images.\n\n\nEnhancements to Datamining on courses.\n\n\nDocument quality estimation",
             "title": "Home"
         },
         {
-            "location": "/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
+            "location": "/#progress-updates-24-april-2018",
+            "text": "I have worked on completing tasks related to final paper submission CMLA   Latest link of the overleaf paper can be found  here",
+            "title": "Progress updates - 24 April 2018"
         },
         {
-            "location": "/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
+            "location": "/#new-changes-for-cmla-final-paper",
+            "text": "Adding new changes to the paper, some are based on review feedback.   Image processing - server side 01  - Dewraping, binarizing student uploaded images. - complete  Samples Here  Image processing - server side 02  - Rule line removal from student uploaded document images. - pending  Datamining - server side 01  - Enhancements to Datamining on courses.   Image processing - android 01  - Document quality estimation: Accepting or rejecting the camera-upload documents based on image quality. - pending  Paper changes - section 1, section 2  - simple text refinements, grammar and explanation. - complete  Paper changes - section 3  - Detailed explanation on experiments and experience section. Adding a table to explain experiment clearly. - pending",
+            "title": "New changes for CMLA final paper:"
         },
         {
-            "location": "/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "location": "/#tasks-next-week",
+            "text": "Rule line removal from student uploaded document images.  Enhancements to Datamining on courses.  Document quality estimation",
+            "title": "Tasks next week"
         },
         {
             "location": "/about/",
